@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 24 00:48:33 2020
 
-@author: ASUS
+@author: farhad324 (Md. Farhadul Islam)
 """
 
 import pygame
